@@ -1,20 +1,111 @@
-<h1 align="center">Hi 👋, I'm Ndeda</h1>
-<h3 align="center">A passionate software engineeer from Kenya</h3>
+<h1>Hi 👋, I'm Stacy Ndeda</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ndeda-web&label=Profile%20views&color=0e75b6&style=flat" alt="ndeda-web" /> </p>
+<p><em>
+Junior Backend Developer | APIs • Databases • Backend Logic
+</em></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndeda-web" alt="ndeda-web" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/stacymontez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stacymontez" height="30" width="40" /></a>
+<p>
+I'm a junior backend developer based in Kenya, focused on building reliable, maintainable,
+and scalable backend systems. I enjoy working on real-world projects that involve API
+development, authentication, and database-driven applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p>
+My approach to learning is hands-on — I build projects, experiment, debug, and improve.
+I’m comfortable working with RESTful APIs, backend logic, and relational and non-relational
+databases, and I’m continuously growing my skills through practical development.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ndeda-web&show_icons=true&locale=en&layout=compact" alt="ndeda-web" /></p>
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ndeda-web&show_icons=true&locale=en" alt="ndeda-web" /></p>
+<h2>💡 Interests</h2>
+<ul>
+  <li>Backend development & server-side logic</li>
+  <li>RESTful API design & implementation</li>
+  <li>Authentication & authorization (JWT, sessions)</li>
+  <li>Database design & optimization</li>
+  <li>System design fundamentals</li>
+  <li>CLI tools & backend utilities</li>
+  <li>Problem-solving & debugging</li>
+</ul>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ndeda-web&" alt="ndeda-web" /></p>
+<hr>
+
+<h2>🚀 Tech Stack</h2>
+
+<h3>Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
+</p>
+
+<h3>Backend</h3>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" />
+   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" />
+</p>
+</p>
+
+<h3>Databases</h3>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" />
+</p>
+
+<h3>Frontend (Basic)</h3>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap" />
+</p>
+
+<h3>Tools & Workflow</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm" />
+</p>
+
+<hr>
+
+<h2>📌 Featured Projects</h2>
+
+  
+
+<hr>
+
+<h2>📊 GitHub Stats</h2>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ndeda-web&show_icons=true" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndeda-web&layout=compact" />
+</p>
+
+<hr>
+
+<h2>🌱 Currently Improving</h2>
+<ul>
+  <li>Backend architecture & clean code practices</li>
+  <li>API security & authentication flows</li>
+  <li>Advanced SQL & database performance</li>
+  <li>Scalable backend patterns</li>
+</ul>
+
+<hr>
+
+<h2>🤝 Open To</h2>
+<ul>
+  <li>Junior backend developer roles</li>
+  <li>Internships & entry-level opportunities</li>
+  <li>Open-source collaboration</li>
+</ul>
+
+<p><strong>🚀 Focused on learning, building, and growing as a backend developer.</strong></p>
+
