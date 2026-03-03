@@ -1,13 +1,21 @@
 <h1>Hi 👋, I'm Stacy Ndeda</h1>
 
 <p><em>
-Junior Backend Developer | APIs • Databases • Backend Logic
+Software Engineering Student
+Backend Developer | Devops Enthusiast  
 </em></p>
 
 <p>
 I'm a junior backend developer based in Kenya, focused on building reliable, maintainable,
 and scalable backend systems. I enjoy working on real-world projects that involve API
 development, authentication, and database-driven applications.
+</p>
+<p>
+Currently learning :
+-Docker
+-CI/CD pipelines
+-Linux fundamentals
+-Cloud deployment
 </p>
 
 <p>
@@ -39,6 +47,7 @@ databases, and I’m continuously growing my skills through practical developmen
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
+
 </p>
 
 <h3>Backend</h3>
@@ -70,6 +79,9 @@ databases, and I’m continuously growing my skills through practical developmen
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
 <hr>
