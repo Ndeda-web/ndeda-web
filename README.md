@@ -1,39 +1,39 @@
 <h1>Hi 👋, I'm Stacy Ndeda</h1>
 
 <p><em>
-Software Engineering Student
-Backend Developer | Devops Enthusiast  
+Software Engineering Student  
+Backend Developer | AI Enthusiast  
 </em></p>
 
 <p>
-I'm a junior backend developer based in Kenya, focused on building reliable, maintainable,
-and scalable backend systems. I enjoy working on real-world projects that involve API
-development, authentication, and database-driven applications.
-</p>
-<p>
-Currently learning :
--Docker
--CI/CD pipelines
--Linux fundamentals
--Cloud deployment
+I'm a junior backend developer based in Kenya, focused on building reliable,
+scalable, and intelligent backend systems. I enjoy working on real-world projects
+that combine backend development with AI to solve practical problems.
 </p>
 
 <p>
-My approach to learning is hands-on — I build projects, experiment, debug, and improve.
-I’m comfortable working with RESTful APIs, backend logic, and relational and non-relational
-databases, and I’m continuously growing my skills through practical development.
+Currently focused on:
+- Elixir & functional programming  
+- AI integration & automation  
+- Backend system design  
+- Linux & development environments  
+</p>
+
+<p>
+My learning approach is hands-on — I build, experiment, debug, and improve.
+Recently, I’ve been working on integrating AI into backend systems to move beyond
+traditional development and create smarter, more adaptive applications.
 </p>
 
 <hr>
 
 <h2>💡 Interests</h2>
 <ul>
-  <li>Backend development & server-side logic</li>
-  <li>RESTful API design & implementation</li>
-  <li>Authentication & authorization (JWT, sessions)</li>
-  <li>Database design & optimization</li>
-  <li>System design fundamentals</li>
-  <li>CLI tools & backend utilities</li>
+  <li>Backend development & system architecture</li>
+  <li>AI-assisted applications & automation</li>
+  <li>API design & integration</li>
+  <li>Data processing & validation systems</li>
+  <li>Functional programming (Elixir)</li>
   <li>Problem-solving & debugging</li>
 </ul>
 
@@ -43,11 +43,11 @@ databases, and I’m continuously growing my skills through practical developmen
 
 <h3>Languages</h3>
 <p>
+  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
-
 </p>
 
 <h3>Backend</h3>
@@ -55,8 +55,7 @@ databases, and I’m continuously growing my skills through practical developmen
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" />
-   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" />
-</p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" />
 </p>
 
 <h3>Databases</h3>
@@ -78,46 +77,36 @@ databases, and I’m continuously growing my skills through practical developmen
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
 </p>
 
 <hr>
 
 <h2>📌 Featured Projects</h2>
-
-  
-
-<hr>
-
-<h2>📊 GitHub Stats</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ndeda-web&show_icons=true" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndeda-web&layout=compact" />
+AI Data Validator (Elixir + AI) — A system that combines rule-based validation
+with AI analysis to detect, explain, and suggest fixes for data issues.
 </p>
 
 <hr>
 
 <h2>🌱 Currently Improving</h2>
 <ul>
-  <li>Backend architecture & clean code practices</li>
-  <li>API security & authentication flows</li>
-  <li>Advanced SQL & database performance</li>
-  <li>Scalable backend patterns</li>
+  <li>AI integration in backend systems</li>
+  <li>Elixir & functional programming patterns</li>
+  <li>Scalable backend architecture</li>
+  <li>Data processing & automation workflows</li>
 </ul>
 
 <hr>
 
 <h2>🤝 Open To</h2>
 <ul>
-  <li>Junior backend developer roles</li>
+  <li>Backend & AI-focused roles</li>
   <li>Internships & entry-level opportunities</li>
-  <li>Open-source collaboration</li>
+  <li>Collaborations on AI + backend projects</li>
 </ul>
 
-<p><strong>🚀 Focused on learning, building, and growing as a backend developer.</strong></p>
+<p><strong>🚀 Focused on building intelligent backend systems with AI.</strong></p>
 
